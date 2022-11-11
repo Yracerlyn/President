@@ -7,4 +7,9 @@ import java.util.stream.Collectors;
 
 public class localgame extends presidentEngine{
     
+    public static void main(String[] args) {
+        
+    }
+
+    
 }

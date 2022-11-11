@@ -56,4 +56,5 @@ public enum CardValue {
     public int getRank() {
         return rank;
     }
+
 }
